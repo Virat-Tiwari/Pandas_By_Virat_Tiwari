@@ -1,0 +1,6 @@
+,Name,Survived,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Friends,Fare_INR
+0,"Braund, Mr. Owen Harris",0,male,22.0,1,0,A/5 21171,7.25,Virat,S,Virat Tiwari,580.0
+1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",1,female,38.0,1,0,PC 17599,71.2833,C85,C,Virat Tiwari,5702.664
+2,"Heikkinen, Miss. Laina",1,female,26.0,0,0,STON/O2. 3101282,7.925,Virat,S,Virat Tiwari,634.0
+3,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",1,female,35.0,1,0,113803,53.1,C123,S,Virat Tiwari,4248.0
+4,"Moran, Mr. James",0,male,Virat,0,0,330877,8.4583,Virat,Q,Virat Tiwari,676.664
